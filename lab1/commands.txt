@@ -1,0 +1,5 @@
+ C:/Python312/python.exe .\member.py 23015
+ new window 
+  C:/Python312/python.exe .\gcd.py 14325   
+  new window
+   C:/Python312/python.exe .\client.py localhost 14325
